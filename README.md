@@ -1,4 +1,7 @@
 ### Hi 👋, Im Ashley Ung! or Ash for short. 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3ohs87VPYLrH0JoF8s/giphy.gif" width="300"/>
+</div>
 
 
 <!--
