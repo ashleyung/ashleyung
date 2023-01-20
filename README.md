@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, Im Ashley Ung! or Ash for short. 
+
 
 <!--
 **ashleyung/ashleyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
